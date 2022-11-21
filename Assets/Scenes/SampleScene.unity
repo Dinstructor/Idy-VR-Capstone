@@ -229,13 +229,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 2
+  m_fontStyle: 3
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -800,52 +800,52 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 12.059454
+      value: 10.886913
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 12.059454
+      value: 10.886913
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 12.059454
+      value: 10.886913
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 73.1
+      value: 74.04909
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 18.7
+      value: 19.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -132.5
+      value: -132.19
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.77556217
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.63127124
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
@@ -855,7 +855,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 78.288
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4d251d8f43a47e14d9abc9a6bb39b521,
         type: 3}
@@ -1675,13 +1675,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -2065,9 +2065,9 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 467daf8663b6e8e4abe6fed58af225c9, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.148
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -2852,13 +2852,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -4790,7 +4790,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 2
+  m_fontStyle: 3
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -5998,13 +5998,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14
-  m_fontSizeBase: 14
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 2
+  m_fontStyle: 3
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
